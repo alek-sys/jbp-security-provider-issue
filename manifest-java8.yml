@@ -1,0 +1,5 @@
+---
+applications:
+  - name: jbp-security-provider-issue-8
+    path: build/libs/jbp-security-provider-issue.jar
+    buildpack: java_buildpack_offline
